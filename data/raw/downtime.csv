@@ -1,0 +1,284 @@
+Date,Shift,Reason,Minutes
+2026-01-01,B,Charging Delay,30
+2026-01-02,B,Maintenance,43
+2026-01-02,B,Raw Material Delay,19
+2026-01-02,B,Mechanical,41
+2026-01-03,A,Raw Material Delay,31
+2026-01-03,C,Electrical,27
+2026-01-05,B,Raw Material Delay,16
+2026-01-05,B,Maintenance,15
+2026-01-06,A,Maintenance,29
+2026-01-06,C,Electrical,18
+2026-01-06,A,Charging Delay,33
+2026-01-07,B,Electrical,45
+2026-01-08,C,Maintenance,39
+2026-01-08,C,Raw Material Delay,15
+2026-01-09,A,Charging Delay,34
+2026-01-09,A,Electrical,20
+2026-01-09,B,Charging Delay,32
+2026-01-10,B,Mechanical,7
+2026-01-10,B,Mechanical,24
+2026-01-10,C,Maintenance,10
+2026-01-12,C,Maintenance,15
+2026-01-12,C,Raw Material Delay,29
+2026-01-12,C,Raw Material Delay,38
+2026-01-13,C,Electrical,22
+2026-01-13,B,Raw Material Delay,21
+2026-01-13,A,Electrical,44
+2026-01-14,A,Raw Material Delay,32
+2026-01-14,C,Charging Delay,31
+2026-01-16,C,Charging Delay,22
+2026-01-18,C,Electrical,11
+2026-01-19,C,Mechanical,12
+2026-01-20,C,Electrical,22
+2026-01-20,B,Maintenance,42
+2026-01-20,A,Electrical,18
+2026-01-21,B,Raw Material Delay,20
+2026-01-21,C,Raw Material Delay,40
+2026-01-21,A,Mechanical,15
+2026-01-22,A,Mechanical,29
+2026-01-23,A,Raw Material Delay,28
+2026-01-24,A,Mechanical,45
+2026-01-25,A,Raw Material Delay,11
+2026-01-26,A,Electrical,9
+2026-01-26,A,Electrical,30
+2026-01-27,C,Mechanical,23
+2026-01-29,A,Electrical,36
+2026-01-31,A,Mechanical,40
+2026-02-01,B,Electrical,7
+2026-02-01,A,Electrical,44
+2026-02-01,B,Raw Material Delay,6
+2026-02-02,A,Maintenance,36
+2026-02-03,B,Raw Material Delay,5
+2026-02-03,A,Mechanical,11
+2026-02-05,B,Charging Delay,18
+2026-02-05,A,Charging Delay,24
+2026-02-05,C,Electrical,21
+2026-02-06,C,Maintenance,12
+2026-02-07,A,Charging Delay,23
+2026-02-07,C,Maintenance,24
+2026-02-08,C,Mechanical,12
+2026-02-08,B,Mechanical,40
+2026-02-08,B,Mechanical,13
+2026-02-09,A,Raw Material Delay,16
+2026-02-09,A,Charging Delay,8
+2026-02-09,A,Raw Material Delay,20
+2026-02-11,B,Raw Material Delay,12
+2026-02-12,A,Electrical,12
+2026-02-13,C,Mechanical,6
+2026-02-13,B,Raw Material Delay,18
+2026-02-13,A,Charging Delay,9
+2026-02-14,A,Charging Delay,16
+2026-02-15,B,Electrical,28
+2026-02-15,A,Mechanical,15
+2026-02-15,A,Electrical,12
+2026-02-17,B,Raw Material Delay,27
+2026-02-17,C,Charging Delay,15
+2026-02-17,C,Electrical,15
+2026-02-18,B,Mechanical,11
+2026-02-18,C,Mechanical,30
+2026-02-18,B,Raw Material Delay,12
+2026-02-20,B,Raw Material Delay,31
+2026-02-20,C,Electrical,43
+2026-02-20,A,Electrical,25
+2026-02-22,A,Raw Material Delay,30
+2026-02-22,B,Electrical,32
+2026-02-23,A,Mechanical,15
+2026-02-23,A,Mechanical,44
+2026-02-23,C,Charging Delay,10
+2026-02-24,C,Charging Delay,18
+2026-02-24,C,Mechanical,23
+2026-02-24,C,Mechanical,28
+2026-02-25,A,Raw Material Delay,38
+2026-02-26,A,Mechanical,26
+2026-02-26,A,Maintenance,25
+2026-02-27,A,Raw Material Delay,21
+2026-02-27,C,Charging Delay,15
+2026-02-28,B,Maintenance,33
+2026-02-28,A,Electrical,36
+2026-03-01,B,Maintenance,44
+2026-03-01,B,Mechanical,5
+2026-03-02,A,Maintenance,30
+2026-03-03,C,Charging Delay,7
+2026-03-03,B,Raw Material Delay,19
+2026-03-04,B,Mechanical,10
+2026-03-04,B,Electrical,33
+2026-03-05,B,Raw Material Delay,33
+2026-03-06,C,Electrical,40
+2026-03-07,C,Mechanical,12
+2026-03-08,A,Mechanical,28
+2026-03-11,A,Electrical,21
+2026-03-13,A,Maintenance,39
+2026-03-13,A,Mechanical,44
+2026-03-13,C,Mechanical,28
+2026-03-15,B,Mechanical,30
+2026-03-16,A,Mechanical,35
+2026-03-16,C,Charging Delay,35
+2026-03-19,A,Maintenance,22
+2026-03-19,C,Charging Delay,33
+2026-03-19,C,Maintenance,37
+2026-03-20,A,Mechanical,15
+2026-03-20,B,Mechanical,33
+2026-03-20,C,Raw Material Delay,6
+2026-03-21,C,Charging Delay,39
+2026-03-21,C,Mechanical,20
+2026-03-26,B,Maintenance,36
+2026-03-26,C,Maintenance,34
+2026-03-27,B,Mechanical,42
+2026-03-27,B,Electrical,22
+2026-03-27,C,Maintenance,6
+2026-03-29,A,Raw Material Delay,14
+2026-03-29,A,Maintenance,32
+2026-03-29,B,Charging Delay,9
+2026-03-30,B,Mechanical,13
+2026-03-30,A,Electrical,40
+2026-03-30,A,Charging Delay,27
+2026-03-31,B,Maintenance,37
+2026-04-01,B,Maintenance,13
+2026-04-02,A,Electrical,8
+2026-04-02,C,Charging Delay,45
+2026-04-03,C,Charging Delay,38
+2026-04-04,A,Charging Delay,37
+2026-04-04,B,Electrical,34
+2026-04-04,A,Raw Material Delay,43
+2026-04-05,A,Charging Delay,35
+2026-04-07,C,Charging Delay,6
+2026-04-08,C,Raw Material Delay,30
+2026-04-09,A,Raw Material Delay,38
+2026-04-09,B,Maintenance,23
+2026-04-09,C,Charging Delay,22
+2026-04-10,C,Maintenance,20
+2026-04-11,B,Maintenance,27
+2026-04-12,C,Electrical,43
+2026-04-14,C,Maintenance,30
+2026-04-14,A,Electrical,35
+2026-04-14,A,Charging Delay,19
+2026-04-15,B,Mechanical,29
+2026-04-16,A,Mechanical,31
+2026-04-17,A,Electrical,22
+2026-04-17,A,Mechanical,21
+2026-04-17,C,Electrical,10
+2026-04-18,B,Electrical,21
+2026-04-18,C,Charging Delay,16
+2026-04-19,A,Maintenance,15
+2026-04-19,C,Raw Material Delay,31
+2026-04-19,A,Electrical,17
+2026-04-20,B,Mechanical,23
+2026-04-20,B,Charging Delay,28
+2026-04-21,C,Mechanical,24
+2026-04-21,A,Charging Delay,23
+2026-04-22,A,Mechanical,11
+2026-04-23,B,Charging Delay,41
+2026-04-23,B,Charging Delay,41
+2026-04-23,B,Maintenance,23
+2026-04-24,A,Raw Material Delay,39
+2026-04-25,A,Charging Delay,29
+2026-04-25,A,Raw Material Delay,12
+2026-04-26,A,Electrical,44
+2026-04-26,A,Mechanical,31
+2026-04-27,B,Raw Material Delay,16
+2026-04-27,B,Maintenance,23
+2026-04-28,C,Raw Material Delay,37
+2026-04-29,A,Charging Delay,33
+2026-04-29,C,Electrical,25
+2026-04-29,A,Raw Material Delay,44
+2026-04-30,B,Raw Material Delay,12
+2026-04-30,B,Electrical,5
+2026-04-30,A,Maintenance,25
+2026-05-02,B,Mechanical,38
+2026-05-02,A,Charging Delay,35
+2026-05-03,C,Electrical,8
+2026-05-04,B,Raw Material Delay,15
+2026-05-04,B,Charging Delay,17
+2026-05-08,B,Maintenance,24
+2026-05-09,C,Maintenance,39
+2026-05-10,A,Charging Delay,18
+2026-05-10,C,Mechanical,45
+2026-05-10,A,Charging Delay,45
+2026-05-11,A,Maintenance,31
+2026-05-11,C,Raw Material Delay,29
+2026-05-11,A,Mechanical,29
+2026-05-12,A,Maintenance,24
+2026-05-12,C,Mechanical,14
+2026-05-12,A,Raw Material Delay,36
+2026-05-14,B,Mechanical,32
+2026-05-14,A,Charging Delay,33
+2026-05-14,A,Charging Delay,42
+2026-05-18,B,Mechanical,13
+2026-05-19,A,Maintenance,7
+2026-05-21,A,Electrical,35
+2026-05-21,A,Raw Material Delay,44
+2026-05-22,C,Electrical,45
+2026-05-22,A,Mechanical,16
+2026-05-22,A,Raw Material Delay,30
+2026-05-24,C,Raw Material Delay,40
+2026-05-24,B,Electrical,28
+2026-05-26,C,Maintenance,29
+2026-05-26,C,Raw Material Delay,45
+2026-05-26,B,Raw Material Delay,21
+2026-05-27,A,Mechanical,9
+2026-05-28,A,Charging Delay,22
+2026-05-28,A,Charging Delay,30
+2026-05-30,A,Maintenance,15
+2026-05-30,A,Raw Material Delay,32
+2026-05-30,A,Charging Delay,42
+2026-05-31,A,Raw Material Delay,25
+2026-05-31,C,Raw Material Delay,43
+2026-06-01,B,Charging Delay,35
+2026-06-01,C,Maintenance,18
+2026-06-02,C,Raw Material Delay,37
+2026-06-02,A,Raw Material Delay,19
+2026-06-02,A,Charging Delay,25
+2026-06-03,B,Raw Material Delay,35
+2026-06-03,C,Raw Material Delay,39
+2026-06-03,A,Maintenance,33
+2026-06-04,A,Maintenance,24
+2026-06-04,C,Mechanical,7
+2026-06-04,B,Raw Material Delay,18
+2026-06-05,C,Raw Material Delay,11
+2026-06-05,B,Mechanical,22
+2026-06-06,C,Mechanical,20
+2026-06-07,B,Mechanical,13
+2026-06-07,C,Charging Delay,40
+2026-06-08,C,Maintenance,32
+2026-06-08,C,Mechanical,44
+2026-06-08,B,Electrical,27
+2026-06-09,C,Maintenance,30
+2026-06-09,A,Maintenance,25
+2026-06-11,A,Mechanical,10
+2026-06-12,A,Maintenance,15
+2026-06-12,C,Electrical,29
+2026-06-13,C,Charging Delay,11
+2026-06-13,C,Mechanical,13
+2026-06-14,B,Raw Material Delay,23
+2026-06-14,A,Raw Material Delay,27
+2026-06-15,B,Maintenance,28
+2026-06-16,B,Electrical,22
+2026-06-17,B,Maintenance,42
+2026-06-18,A,Maintenance,31
+2026-06-18,C,Charging Delay,25
+2026-06-19,A,Maintenance,21
+2026-06-19,C,Charging Delay,14
+2026-06-19,B,Mechanical,15
+2026-06-20,B,Raw Material Delay,23
+2026-06-21,B,Raw Material Delay,45
+2026-06-21,A,Mechanical,36
+2026-06-21,B,Electrical,15
+2026-06-22,C,Electrical,44
+2026-06-22,B,Raw Material Delay,32
+2026-06-22,B,Electrical,18
+2026-06-23,B,Charging Delay,42
+2026-06-23,C,Raw Material Delay,8
+2026-06-23,A,Mechanical,19
+2026-06-24,B,Mechanical,33
+2026-06-24,A,Mechanical,40
+2026-06-25,A,Charging Delay,41
+2026-06-25,C,Mechanical,13
+2026-06-26,A,Maintenance,41
+2026-06-26,C,Charging Delay,35
+2026-06-27,A,Raw Material Delay,26
+2026-06-27,A,Electrical,43
+2026-06-28,B,Electrical,26
+2026-06-28,A,Raw Material Delay,23
+2026-06-28,B,Mechanical,24
+2026-06-29,C,Maintenance,15
